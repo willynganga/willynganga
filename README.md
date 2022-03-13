@@ -1,12 +1,12 @@
-### Hi there 👋, I'm Willy Ng'ang'a
+### Hi there 👋
 
 My name is Willy Ng'ang'a, a passionate Spring Boot and Android developer. I love working on open-source as well as personal projects. Kotlin and Java are my main programming languages. During my free time I like solving coding problems on Codewars and Hackerank.
 
 
 Skills: KOTLIN / JAVA / ANDROID / SPRING BOOT
 
-- 🔭 I’m currently working on a cookie ordering application.  
-- 🌱 I’m currently learning Jetpack Compose. 
+- 🔭 I’m currently working on Tusomeni - A past paper's web app.
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: willynganga024@gmail.com 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=willynganga&show_icons=true&count_private=true)  
