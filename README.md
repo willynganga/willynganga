@@ -5,8 +5,8 @@ My name is Willy Ng'ang'a, a passionate Spring Boot and Android developer. I lov
 
 Skills: KOTLIN / JAVA / ANDROID / SPRING BOOT
 
-- 🔭 I’m currently working on Tusomeni - A past paper's web app.
-- 🌱 I’m currently learning Go
+- 🔭 I’m currently working on Tikomatata
+- 🌱 I’m currently learning Bash
 - 📫 How to reach me: willynganga024@gmail.com 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=willynganga&show_icons=true&count_private=true)  
