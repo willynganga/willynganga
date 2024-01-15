@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Willy Ng'ang'a, a passionate Spring Boot and Android developer. I love working on open-source as well as personal projects. Kotlin and Java are my main programming languages. During my free time I like solving coding problems on Codewars and Hackerank.
+My name is Willy Mwangi, a passionate Software Engineer who loves solving problems for the real world.
 
 
-Skills: KOTLIN / JAVA / ANDROID / SPRING BOOT
+Skills: KOTLIN / JAVA / SPRING BOOT
 
-- 🔭 I’m currently working on Tikomatata
-- 🌱 I’m currently learning Bash
+- 🔭 I’m currently working on Tikomatata!
+- 🌱 I’m currently learning Go!
 - 📫 How to reach me: willynganga024@gmail.com 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=willynganga&show_icons=true&count_private=true)  
