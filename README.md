@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is Willy Mwangi, a passionate Software Engineer who loves solving problems for the real world.
-
+Meet Willy Mwangi, a highly skilled and passionate software engineer dedicated to making a tangible impact in the real world. With a keen problem-solving mindset and a commitment to innovation, I thrive on translating complex challenges into practical solutions through cutting-edge software development. From optimizing workflows to enhancing user experiences, I leverage technical expertise and a genuine passion for addressing real-world problems, ensuring that every line of code contributes to meaningful and impactful outcomes. I'm not just a coder but also a visionary technologist, striving to create solutions that make a positive difference in people's lives and industries.
 
 Skills: KOTLIN / JAVA / SPRING BOOT
 
